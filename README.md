@@ -22,7 +22,7 @@ After cloning this README Generator into your repo, run ```npm i ``` to install 
 N/A
 
 ## Testing <a name="testing"></a>  
-N/A
+[Video Walkthru](https://watch.screencastify.com/v/LwRDeOQFTVMMHnq3WQdP)
 
 
 ## Questions <a name="questions"></a>  
